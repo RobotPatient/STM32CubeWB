@@ -1,4 +1,4 @@
-# WARNING: READ FIRST
+# WARNING: READ FIRST:
 
 > [!IMPORTANT]
 > RobotPatient uses the stm32wb for BLE communication with manikins, AEDs, etc.
