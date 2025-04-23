@@ -1,6 +1,6 @@
-[!WARNING]
 # WARNING: READ FIRST
 
+[!IMPORTANT]
 RobotPatient uses the stm32wb for BLE communication with manikins, AEDs, etc. 
 
 FUS: stm32wb5x_FUS_fw.bin (0x080EE000) v2.0.0.3 + stm32wb5x_BLE_HCILayer_extended_fw.bin v1.22.1.1 (0x080D7000) is known to work for the STM32WB5GGM.
@@ -9,6 +9,8 @@ With FUS v2.0.0, Coprocessor Binaries can be installed only through the USB inte
 Currently CubeProgrammer versions do not support “FW_delete” command when using the ST-Link interface. 
 
 (ST says that the next CubeProgrammer release will address this limitation.)
+
+Before upgrading this version (pulling the original), please check and recheck that newer versions really work with the boards!
 
 # STM32CubeWB MCU Firmware Package
 
