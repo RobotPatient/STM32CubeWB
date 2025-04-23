@@ -1,7 +1,7 @@
 # WARNING: READ FIRST:
 
+RobotPatient uses the stm32wb for BLE communication with manikins, AEDs, etc.
 > [!IMPORTANT]
-> RobotPatient uses the stm32wb for BLE communication with manikins, AEDs, etc.
 > 
 > FUS: stm32wb5x_FUS_fw.bin (0x080EE000) v2.0.0.3 + stm32wb5x_BLE_HCILayer_extended_fw.bin v1.22.1.1 (0x080D7000) is known to work for the STM32WB5GGM.
 >
